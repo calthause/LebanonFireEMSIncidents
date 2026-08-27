@@ -1,7 +1,7 @@
 # Fire & EMS Incidents
 
 A minimal PlatformIO project for ESP32 with CYD display.
-
+CYD used is the dual USB model
 ## Build & Upload
 
 - **Build**: `pio run -e esp32dev`
